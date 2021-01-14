@@ -21,6 +21,9 @@ The directory of this homework consists of one file:
 
 **********************
 *Homework made by:*
+
 Michele Amoroso
+
 Tommaso Berritto
+
 Zain Ullah
